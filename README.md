@@ -18,7 +18,7 @@ This project is a Streamlit-based application that allows users to ask natural l
 
 ->A user types a natural language question like:
 
-   "Which students are in section A?"
+    "Which students are in section A?"
 
 ->The app sends the question and a structured prompt to the Gemini 1.5 Flash model.
 
